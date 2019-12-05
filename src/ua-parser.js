@@ -481,7 +481,7 @@
             ], [MODEL, [VENDOR, 'HTC'], [TYPE, TABLET]], [
 
             /d\/huawei([\w\s-]+)[;\)]/i,
-            /(nexus\s6p|vog-l29|ane-lx1|eml-l29|lya-l09|clt-l29)/i              // Huawei
+            /(nexus\s6p|vog-l29|ane-lx1|eml-l29|lya-l09|clt-l29|lya-al00|lya-al10|lya-l0c|lya-l29|lya-tl00)/i   // Huawei
             ], [MODEL, [VENDOR, 'Huawei'], [TYPE, MOBILE]], [
 
             /(microsoft);\s(lumia[\s\w]+)/i                                     // Microsoft Lumia
