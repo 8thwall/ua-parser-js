@@ -1114,7 +1114,7 @@
           "model": "ELE-L29",
           "type": "mobile"
       }
-  },
+    },
     {
         "desc": "Huawei P30 Pro",
         "ua": "Mozilla/5.0 (Linux; Android 9; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36",
