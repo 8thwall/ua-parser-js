@@ -622,6 +622,15 @@
       }
     },
     {
+      "desc": "Sony Xperia 1 II",
+      "ua": "Mozilla/5.0 (Linux; Android 10; SOG01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36",
+      "expect": {
+          "vendor": "Sony",
+          "model": "SOG01",
+          "type": "mobile"
+      }
+    },
+    {
         "desc": "Samsung Galaxy S6",
         "ua": "Mozilla/5.0 (Linux; Android 4.4.2; SM-G920I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Safari/537.36",
         "expect": {
