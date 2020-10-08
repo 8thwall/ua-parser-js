@@ -530,10 +530,9 @@
             ], [[VENDOR, 'Samsung'], MODEL, [TYPE, TABLET]], [                  // Samsung
             /smart-tv.+(samsung)/i
             ], [VENDOR, [TYPE, SMARTTV], MODEL], [
-            /((s[cgp]h-\w+|gt-\w+|galaxy\snexus|sm-\w[\w\d]+))/i,
+            /((s[cgp]h-\w+|gt-\w+|sc[g-]?[\d]+a?|galaxy\snexus|sm-\w[\w\d]+))/i,
             /(sam[sung]*)[\s-]*(\w+-?[\w-]*)/i,
-            /sec-((sgh\w+))/i,
-            /sc[g-]?[\d]+a?/i
+            /sec-((sgh\w+))/i
             ], [[VENDOR, 'Samsung'], MODEL, [TYPE, MOBILE]], [
 
             /sie-(\w*)/i                                                        // Siemens
