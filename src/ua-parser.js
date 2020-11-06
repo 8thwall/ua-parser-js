@@ -493,7 +493,7 @@
             ], [MODEL, [VENDOR, 'HTC'], [TYPE, TABLET]], [
 
             /d\/huawei([\w\s-]+)[;\)]/i,                                        // Huawei
-            /android.+\s(nexus\s6p|vog-[at]?l\d\d|ane-[at]?l[x\d]\d|eml-a?l\d\da?|lya-[at]?l\d[\dc]|clt-a?l\d\di?|ele-[at]?l\d\d|yale?\-l[267]1[ad]?)/i
+            /android.+\s(nexus\s6p|vog-[at]?l\d\d|ane-[at]?l[x\d]\d|eml-a?l\d\da?|lya-[at]?l\d[\dc]|clt-a?l\d\di?|ele-[at]?l\d\d|yale?\-a?l\d{2}[ad]?)/i
             ], [MODEL, [VENDOR, 'Huawei'], [TYPE, MOBILE]], [
 
             /android.+(bah2?-a?[lw]\d{2})/i                                     // Huawei MediaPad

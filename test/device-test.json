@@ -89,6 +89,24 @@
         }
     },
     {
+      "desc": "Huawei Honor 20 Pro",
+      "ua": "Mozilla/5.0 (Linux; Android 10; YAL-L41) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36",
+      "expect": {
+          "vendor": "Huawei",
+          "model": "YAL-L41",
+          "type": "mobile"
+      }
+    },
+    {
+      "desc": "Huawei Honor 20 Pro",
+      "ua": "Mozilla/5.0 (Linux; Android 10; YAL-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36",
+      "expect": {
+          "vendor": "Huawei",
+          "model": "YAL-AL10",
+          "type": "mobile"
+      }
+    },
+    {
         "desc": "Huawei Nexus 6P",
         "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MTC19V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537",
         "expect": {
